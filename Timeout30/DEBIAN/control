@@ -1,0 +1,8 @@
+Package: com.Kurt1277.Timeout30
+Name: Cydia Timeout-30
+Version: 3.6.5
+Architecture: iphoneos-arm
+Description: Times sources out after 30 seconds of refreshing. Will greatly decrease waiting time for refreshing.
+Maintainer: TweakReviewz <kurtisboos@gmail.com>
+Author: TweakReviewz <kurtisboos@gmail.com>
+Section: Tweaks

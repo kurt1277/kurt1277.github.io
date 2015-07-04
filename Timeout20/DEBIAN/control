@@ -1,0 +1,8 @@
+Package: com.Kurt1277.Timeout20
+Name: Cydia Timeout-20
+Version: 2.8.6
+Architecture: iphoneos-arm
+Description: Times sources out after 20 seconds of refreshing. Will greatly decrease waiting time for refreshing.
+Maintainer: TweakReviewz <kurtisboos@gmail.com>
+Author: TweakReviewz <kurtisboos@gmail.com>
+Section: Tweaks
