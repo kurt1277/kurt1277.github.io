@@ -1,4 +1,4 @@
-Package: com.myrepospace.Kurt1277.Timeout10
+Package: com.Kurt1277.Timeout10
 Name: Cydia Timeout-10
 Version: 1.4.5
 Architecture: iphoneos-arm
@@ -6,3 +6,4 @@ Description: Times sources out after 10 seconds of refreshing. Will greatly decr
 Maintainer: TweakReviewz <kurtisboos@gmail.com>
 Author: TweakReviewz <kurtisboos@gmail.com>
 Section: Tweaks
+
