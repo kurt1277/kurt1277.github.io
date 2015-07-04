@@ -7,6 +7,7 @@ Maintainer: TweakReviewz <kurtisboos@gmail.com>
 Author: TweakReviewz <kurtisboos@gmail.com>
 Section: Tweaks
 Filename: .//debs/com.Kurt1277.Timeout10
+Depiction: http://greenydev.github.io/repo/Timout/index.html
 
 Package: com.Kurt1277.Timeout20
 Name: Cydia Timeout-20
@@ -17,6 +18,7 @@ Maintainer: TweakReviewz <kurtisboos@gmail.com>
 Author: TweakReviewz <kurtisboos@gmail.com>
 Section: Tweaks
 Filename: .//debs/com.Kurt1277.Timeout20
+Depiction: http://greenydev.github.io/repo/Timout/index.html
 
 Package: com.Kurt1277.Timeout30
 Name: Cydia Timeout-30
@@ -27,4 +29,5 @@ Maintainer: TweakReviewz <kurtisboos@gmail.com>
 Author: TweakReviewz <kurtisboos@gmail.com>
 Section: Tweaks
 Filename: .//debs/com.Kurt1277.Timeout30
+Depiction: http://greenydev.github.io/repo/Timout/index.html
 
