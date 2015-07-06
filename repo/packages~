@@ -6,7 +6,8 @@ Description: Times sources out after 10 seconds of refreshing. Will greatly decr
 Maintainer: TweakReviewz <kurtisboos@gmail.com>
 Author: TweakReviewz <kurtisboos@gmail.com>
 Section: Tweaks
-Filename: .//debs/com.Kurt1277.Timeout10
+Filename: .//debs/com.Kurt1277.Timeout10_1.4.5_iphoneos-arm.deb
+Depiction: http://greenydev.github.io/repo/Timout/index.html
 
 Package: com.Kurt1277.Timeout20
 Name: Cydia Timeout-20
@@ -16,7 +17,8 @@ Description: Times sources out after 20 seconds of refreshing. Will greatly decr
 Maintainer: TweakReviewz <kurtisboos@gmail.com>
 Author: TweakReviewz <kurtisboos@gmail.com>
 Section: Tweaks
-Filename: .//debs/com.Kurt1277.Timeout20
+Filename: .//debs/com.Kurt1277.Timeout20_2.8.6_iphoneos-arm.deb
+Depiction: http://greenydev.github.io/repo/Timout/index.html
 
 Package: com.Kurt1277.Timeout30
 Name: Cydia Timeout-30
@@ -26,5 +28,6 @@ Description: Times sources out after 30 seconds of refreshing. Will greatly decr
 Maintainer: TweakReviewz <kurtisboos@gmail.com>
 Author: TweakReviewz <kurtisboos@gmail.com>
 Section: Tweaks
-Filename: .//debs/com.Kurt1277.Timeout30
+Filename: .//debs/com.Kurt1277.Timeout30_3.6.5_iphoneos-arm.deb
+Depiction: http://greenydev.github.io/repo/Timout/index.html
 

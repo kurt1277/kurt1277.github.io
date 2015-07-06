@@ -1,2 +1,0 @@
-Acquire::http::Timeout "20";
-Acquire::ftp::Timeout "20";
