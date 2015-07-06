@@ -8,6 +8,10 @@ Author: Kurt1277 <kurtisboos@gmail.com>
 Section: Tweaks
 Filename: .//debs/com.Kurt1277.Timeout10_1.4.5_iphoneos-arm.deb
 Depiction: http://kurt1277.github.io/repo/Timout/index.html
+Size: 766
+SHA1: c1f7c8eccac4ced979fdd310f85b482414740e34
+SHA256:
+abbc2716ff971c0d91953286ff3cdb2fcc29eeca9d130fa510a45bb958904f3d
 
 Package: com.Kurt1277.Timeout20
 Name: Cydia Timeout-20
@@ -19,6 +23,10 @@ Author: Kurt1277 <kurtisboos@gmail.com>
 Section: Tweaks
 Filename: .//debs/com.Kurt1277.Timeout20_2.8.6_iphoneos-arm.deb
 Depiction: http://kurt1277.github.io/repo/Timout/index.html
+Size: 772
+SHA1: 2eab19eabe692fab68e5dd8233ae579c9df94115
+SHA256:
+0f60f8c7d977389a28634d9b9f84bb74faa576a35bea44ba094561758e290a40
 
 Package: com.Kurt1277.Timeout30
 Name: Cydia Timeout-30
@@ -30,4 +38,8 @@ Author: Kurt1277 <kurtisboos@gmail.com>
 Section: Tweaks
 Filename: .//debs/com.Kurt1277.Timeout30_3.6.5_iphoneos-arm.deb
 Depiction: http://kurt1277.github.io/repo/Timout/index.html
+Size: 668
+SHA1: 638843b4427f51683699e64324131686f09d34f9
+SHA256:
+2d4464b85ed579215b8b689d65b7fd9740ae008c7bbde3ee5a664a0490f00070
 
