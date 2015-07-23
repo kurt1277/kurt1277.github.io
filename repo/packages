@@ -55,7 +55,7 @@ Description: A nice new theme. Your welcome Ryan.
 Maintainer: Kurt1277 <kurtisboos@gmail.com>
 Author: Kurt1277 <kurtisboos@gmail.com>
 Section: Themes
-Depends: com.codethemed.iconbundles, winterboard
+
 Filename: .//debs/Modern8.deb
 Depiction: http://kurt1277.github.io/repo/Modern8/index.html
 Size: 434508
@@ -63,5 +63,4 @@ SHA1: 021432af8755ed3db494bb8358bed1d45f665a34
 SHA256:
 e4299ad574d32cfc4c1a8e715904a39f78d81f0d13c95e93896a8de328ef13f7
 MD5sum: eb6cd843a7b3bf2e38dc8b01e2ad3dee
-=======
->>>>>>> 9967b033692a83952a40950711f07f644faf94da
+
