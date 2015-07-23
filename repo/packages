@@ -46,7 +46,6 @@ SHA256:
 2d4464b85ed579215b8b689d65b7fd9740ae008c7bbde3ee5a664a0490f00070
 MD5sum: 0a5769a896caac8070ac4409c1ca03da
 
-<<<<<<< HEAD
 Package: com.Kurt1277.Modern8
 Name: Modern8
 Version: 1.0.7
@@ -55,10 +54,9 @@ Description: A nice new theme. Your welcome Ryan.
 Maintainer: Kurt1277 <kurtisboos@gmail.com>
 Author: Kurt1277 <kurtisboos@gmail.com>
 Section: Themes
-
 Filename: .//debs/Modern8.deb
 Depiction: http://kurt1277.github.io/repo/Modern8/index.html
-Size: 434508
+Size: 450714
 SHA1: 021432af8755ed3db494bb8358bed1d45f665a34
 SHA256:
 e4299ad574d32cfc4c1a8e715904a39f78d81f0d13c95e93896a8de328ef13f7
