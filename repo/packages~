@@ -12,7 +12,10 @@ Size: 766
 SHA1: c1f7c8eccac4ced979fdd310f85b482414740e34
 SHA256:
 abbc2716ff971c0d91953286ff3cdb2fcc29eeca9d130fa510a45bb958904f3d
+<<<<<<< HEAD
 MD5sum: 31cf52897c465e21b324339d480f7da7
+=======
+>>>>>>> 9967b033692a83952a40950711f07f644faf94da
 
 Package: com.Kurt1277.Timeout20
 Name: Cydia Timeout-20
@@ -28,7 +31,10 @@ Size: 772
 SHA1: 2eab19eabe692fab68e5dd8233ae579c9df94115
 SHA256:
 0f60f8c7d977389a28634d9b9f84bb74faa576a35bea44ba094561758e290a40
+<<<<<<< HEAD
 MD5sum: fa40afe9e6b6d5f2b18f0aeb01fed6ee
+=======
+>>>>>>> 9967b033692a83952a40950711f07f644faf94da
 
 Package: com.Kurt1277.Timeout30
 Name: Cydia Timeout-30
@@ -44,5 +50,8 @@ Size: 668
 SHA1: 638843b4427f51683699e64324131686f09d34f9
 SHA256:
 2d4464b85ed579215b8b689d65b7fd9740ae008c7bbde3ee5a664a0490f00070
+<<<<<<< HEAD
 MD5sum: 0a5769a896caac8070ac4409c1ca03da
+=======
+>>>>>>> 9967b033692a83952a40950711f07f644faf94da
 
