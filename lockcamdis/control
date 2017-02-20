@@ -1,0 +1,9 @@
+Package: com.kurt1277.lockcamdis
+Name: LockCamDis
+Depends: mobilesubstrate
+Version: 1
+Architecture: iphoneos-arm
+Description: Disable the camera at the lockscreen!
+Maintainer: Kurt1277
+Author: Kurt1277
+Section: Tweaks
